@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Graph">
+      <UniqueIdentifier>{7681bc83-b9a2-41a7-97ea-be3823f565cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graph.h">
+      <UniqueIdentifier>{d7d3ff3c-5ebb-44f7-b86a-726753df128c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Board_Game">
+      <UniqueIdentifier>{f53bb578-6152-43db-b08f-ac79148a3803}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Board_Game">
+      <UniqueIdentifier>{398794f5-adee-458f-9f2e-e4e20f2eb8e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Login">
+      <UniqueIdentifier>{fe7efea1-f21a-4ea1-a3ac-1edb7c08efbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Login">
+      <UniqueIdentifier>{512b97f5-8c26-4af9-b32e-2763f1578212}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="winthread.cxx">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="winbgi.cxx">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="text.cxx">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="palette.cxx">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="mouse.cxx">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="misc.cxx">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cxx">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="file.cxx">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="drawing.cxx">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="dibutil.cxx">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="bgiout.cxx">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse_Event.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Board.cpp">
+      <Filter>Source Files\Board_Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Board_View.cpp">
+      <Filter>Source Files\Board_Game</Filter>
+    </ClCompile>
+    <ClCompile Include="BoardManager.cpp">
+      <Filter>Source Files\Board_Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Database.cpp">
+      <Filter>Source Files\Login</Filter>
+    </ClCompile>
+    <ClCompile Include="Login_Controller.cpp">
+      <Filter>Source Files\Login</Filter>
+    </ClCompile>
+    <ClCompile Include="Login_View.cpp">
+      <Filter>Source Files\Login</Filter>
+    </ClCompile>
+    <ClCompile Include="Register_View.cpp">
+      <Filter>Source Files\Login</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="winbgitypes.h">
+      <Filter>Header Files\Graph.h</Filter>
+    </ClInclude>
+    <ClInclude Include="winbgim.h">
+      <Filter>Header Files\Graph.h</Filter>
+    </ClInclude>
+    <ClInclude Include="winbgi.h">
+      <Filter>Header Files\Graph.h</Filter>
+    </ClInclude>
+    <ClInclude Include="graphics.h">
+      <Filter>Header Files\Graph.h</Filter>
+    </ClInclude>
+    <ClInclude Include="dibutil.h">
+      <Filter>Header Files\Graph.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse_Event.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Board.h">
+      <Filter>Header Files\Board_Game</Filter>
+    </ClInclude>
+    <ClInclude Include="BoardManager.h">
+      <Filter>Header Files\Board_Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Board_View.h">
+      <Filter>Header Files\Board_Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Database.h">
+      <Filter>Header Files\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="Login_Controller.h">
+      <Filter>Header Files\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="Login_View.h">
+      <Filter>Header Files\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="Register_View.h">
+      <Filter>Header Files\Login</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
