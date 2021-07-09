@@ -1,0 +1,12 @@
+C:\Users\kiennd15\Downloads\bgi\Debug\bgi.exe
+D:\C++\Mock_Project\Debug\bgi.exe
+C:\Users\Minhvq12\OneDrive - FPT Software\Desktop\Mock_Project\Debug\bgi.exe
+C:\Users\Minhvq12\OneDrive - FPT Software\Desktop\Mock_Project\Debug\bgi.pdb
+C:\Users\kiennd15\Downloads\Mock_Project\Mock_Project\Debug\bgi.exe
+C:\Users\kiennd15\OneDrive - FPT Software\Mock_Project\Debug\bgi.exe
+C:\Users\dungom\FPT Software\Nguyen Duc Kien (FWA.EC) - Mock_Project\Debug\bgi.exe
+C:\Users\Minhvq12\FPT Software\Nguyen Duc Kien (FWA.EC) - Mock_Project\Debug\bgi.exe
+C:\Users\Minhvq12\FPT Software\Nguyen Duc Kien (FWA.EC) - Mock_Project\Debug\bgi.pdb
+C:\Users\Minhvq12\OneDrive - FPT Software\My files\Mock_Project\Debug\bgi.exe
+C:\Users\Minhvq12\OneDrive - FPT Software\My files\Mock_Project\Debug\bgi.pdb
+C:\Users\dungnt129\FPT Software\Nguyen Duc Kien (FWA.EC) - Mock_Project (1)\Debug\bgi.exe
